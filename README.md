@@ -1,8 +1,8 @@
 ### Hi there 👋, I'm Anton
 
 ## I'm a Data Scientist
-- 💪 I like to write code
-- 📊 I enjoy analyzing and creating graphs
+- 💪 I enjoy writing code
+- 📊 I also enjoy analyzing and creating graphs
 - 🔬 I am constantly learning new things
 - 😄 I like to cross items off my to-do list
 
